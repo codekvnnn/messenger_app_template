@@ -32,3 +32,31 @@ cd messenger-app
 Install the required dependencies:
 pip install -r requirements.txt
 
+
+:::::::::::::::Using Messenger App::::::::::::::::::::::
+To use Messenger App, follow these steps:
+
+Run the Flask app:
+python app.py
+
+Open your web browser and go to http://127.0.0.1:5000/ to view the app.
+
+Contributing to Messenger App
+
+To contribute to Messenger App, follow these steps:
+
+>Fork this repository.
+>Create a new branch: git checkout -b <branch_name>.
+>Make your changes and commit them: git commit -m '<commit_message>'
+>Push to the original branch: git push origin <project_name>/<location>
+>Create the pull request.
+
+>>Alternatively, see the GitHub documentation on creating a pull request.
+
+Contributors:
+
+@codekvnnn
+
+
+License
+This project uses the following license: MIT License.
